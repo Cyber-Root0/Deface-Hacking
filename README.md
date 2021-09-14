@@ -22,7 +22,7 @@ Deface-Hacking é uma Pagina PHP Livre e de Código Aberto que utiliza-se como b
 
 ## Redes Sociais (Contato):
 
-Email: boteistem@gmail.com
+Email: boteistem@yandex.com
 
 
 
